@@ -3,3 +3,6 @@
 - https://reshaped.so/
 - https://react-spectrum.adobe.com/react-aria/index.html
 - https://vanderbilt-design-system.netlify.app/components/button-group press 2 to see the buttons.
+- https://github.com/mantinedev/mantine React component library
+- Baklava https://baklava.design/?path=/docs/design-system-colors--documentation 
+- Shoelace - web components component library https://github.com/shoelace-style/shoelace
