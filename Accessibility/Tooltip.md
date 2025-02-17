@@ -1,0 +1,3 @@
+- https://www.tpgi.com/tooltips-are-presentational/
+- https://sarahmhigley.com/writing/tooltips-in-wcag-21/
+- https://inclusive-components.design/tooltips-toggletips/
